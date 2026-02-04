@@ -148,3 +148,4 @@ C:\Users\hp\Desktop\projects\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\ref
 C:\Users\hp\Desktop\projects\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.pdb
 C:\Users\hp\Desktop\projects\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.genruntimeconfig.cache
 C:\Users\hp\Desktop\projects\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\ref\Mango.Services.CouponAPI.dll
+C:\Users\hp\Desktop\projects\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.sourcelink.json

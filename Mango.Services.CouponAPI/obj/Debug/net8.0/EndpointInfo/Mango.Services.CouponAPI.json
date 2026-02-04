@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/CouponAPI": {
+    "/api/coupon": {
       "get": {
         "tags": [
           "CouponAPI"
@@ -163,7 +163,7 @@
         }
       }
     },
-    "/api/CouponAPI/{id}": {
+    "/api/coupon/{id}": {
       "get": {
         "tags": [
           "CouponAPI"
@@ -203,7 +203,7 @@
         }
       }
     },
-    "/api/CouponAPI/GetByCode/{code}": {
+    "/api/coupon/GetByCode/{code}": {
       "get": {
         "tags": [
           "CouponAPI"
